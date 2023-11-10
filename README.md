@@ -1,3 +1,2 @@
 # GitHubMiniLesson
-# GitHubMiniLesson
-# GitHubMiniLesson
+
